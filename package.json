@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Huntsama/portfolio/issues"
   },
-  "homepage": "https://github.com/Huntsama/portfolio#readme"
+  "homepage": "https://github.com/Huntsama/portfolio#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
