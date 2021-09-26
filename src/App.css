@@ -7,3 +7,11 @@ body{
     font-family: Arial;
     background-color: #262a33;
 }
+
+@media only screen and (min-width : 600px){
+    .facet_sidebar {
+      display: none;
+      background-color: #262a33;
+      width: 75%;
+    }
+  }
