@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "fromscratch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Huntsama/portfolio.git"
+    "url": "git+https://github.com/Huntsama/fromscratch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Huntsama/portfolio/issues"
+    "url": "https://github.com/Huntsama/fromscratch/issues"
   },
-  "homepage": "https://github.com/Huntsama/portfolio#readme",
+  "homepage": "https://github.com/Huntsama/fromscratch#readme",
   "dependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
